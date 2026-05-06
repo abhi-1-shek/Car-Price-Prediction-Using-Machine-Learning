@@ -80,6 +80,12 @@ Programming Language: Python
 
     * F1-score
 
+Conclusion
+
+The Random Forest model achieved 88% accuracy, indicating reliable performance and good ability to capture data patterns. Its ensemble approach improves stability and reduces overfitting. While the results are strong, additional metrics like precision, recall, and F1-score should be considered for a complete evaluation. Overall, it is a dependable model with scope for further improvement.
+
+   
+
 
 
     
