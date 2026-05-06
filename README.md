@@ -19,3 +19,68 @@ Features:
     * Hyperparameter Tuning (Optional): Optimizing model parameters for better performance using techniques like Grid Search or Random Search.
 
     * Model Deployment (Optional): Integrating the trained model into a web application (e.g., using Flask or Streamlit) for real-time predictions.
+    
+🛠️ Technologies Used
+
+Programming Language: Python
+
+-> Libraries:
+
+    * NumPy
+
+    * Pandas
+
+    * Matplotlib
+
+    * Seaborn
+
+    * Scikit-learn
+
+    * Imbalanced-learn (SMOTE)
+
+    * Platform: Jupyter Notebook / VS Code
+
+
+
+⚙️ Project Workflow
+
+    * Data Collection
+
+    * Data Preprocessing
+
+    * Handling missing values
+
+    * Feature scaling
+
+    * Exploratory Data Analysis (EDA)
+
+    * Feature Selection
+
+-> Model Training
+
+    * Logistic Regression
+
+    * Random Forest
+
+    * Decision Tree
+
+    * XGBoost
+
+    * Support Vector Machine(SVM)
+
+    * Navie bayes
+
+-> Model Evaluation
+ 
+    * Confusion Matrix
+
+    * Precision
+
+    * Recall
+
+    * F1-score
+
+
+
+    
+    
