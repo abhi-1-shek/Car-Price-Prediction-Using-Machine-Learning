@@ -8,14 +8,14 @@ Methodology: Utilizes machine learning algorithms (e.g., Random Forest Regressor
 
 Features:
 
-Data Preprocessing: Cleaning and preparing the raw data, handling missing values, encoding categorical variables, and scaling numerical features
-.
-Feature Engineering: Creating new, informative features from existing ones to improve model performance (e.g., calculating car age from manufacturing year).
+    * Data Preprocessing: Cleaning and preparing the raw data, handling missing values, encoding categorical variables, and scaling numerical features
 
-Model Training: Training a chosen machine learning model on the prepared dataset.
+    * Feature Engineering: Creating new, informative features from existing ones to improve model performance (e.g., calculating car age from manufacturing year).
 
-Model Evaluation: Assessing the model's performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
+    * Model Training: Training a chosen machine learning model on the prepared dataset.
 
-Hyperparameter Tuning (Optional): Optimizing model parameters for better performance using techniques like Grid Search or Random Search.
+    * Model Evaluation: Assessing the model's performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
 
-Model Deployment (Optional): Integrating the trained model into a web application (e.g., using Flask or Streamlit) for real-time predictions.
+    * Hyperparameter Tuning (Optional): Optimizing model parameters for better performance using techniques like Grid Search or Random Search.
+
+    * Model Deployment (Optional): Integrating the trained model into a web application (e.g., using Flask or Streamlit) for real-time predictions.
