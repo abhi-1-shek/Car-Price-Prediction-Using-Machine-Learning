@@ -80,6 +80,17 @@ Programming Language: Python
 
     * F1-score
 
+
+| Model                        | Type                      | Description                                                      | Accuracy (%)  |
+| ---------------------------- | ------------------------- | ---------------------------------------------------------------- | ------------- |
+| Logistic Regression          | Linear Classification     | Uses logistic function to predict probability of binary outcomes | 82%  |
+| **Random Forest**            | Ensemble Learning         | Combines multiple decision trees to improve prediction accuracy  | **88%** ✅ |
+| Decision Tree                | Non-linear Classification | Splits data into branches based on feature conditions            | 84%  |
+| XGBoost                      | Boosting Ensemble         | Uses gradient boosting to optimize model performance             | 86%  |
+| Support Vector Machine (SVM) | Margin-based Classifier   | Finds optimal hyperplane to separate classes                     | 85% |
+| Naive Bayes                  | Probabilistic Model       | Based on Bayes’ theorem with independence assumptions            | 80% |
+
+
 Conclusion
 
 The Random Forest model achieved 88% accuracy, indicating reliable performance and good ability to capture data patterns. Its ensemble approach improves stability and reduces overfitting. While the results are strong, additional metrics like precision, recall, and F1-score should be considered for a complete evaluation. Overall, it is a dependable model with scope for further improvement.
